@@ -1,0 +1,40 @@
+body {
+	text-align: center;
+}
+
+.my_nav_bar {
+	position: sticky;
+	top: 0;
+	z-index: 99999;
+}
+
+#logo {
+	margin-left: 600px;
+}
+
+.line {
+	height: 6px;
+	background-color: #000;
+	width: 70px;
+	margin: 8px auto;
+}
+
+#aboutUs {
+	background-color: white;
+}
+
+#welcome {
+	background-color: azure;
+}
+
+#contact {
+	background-color: azure;
+}
+
+.contact_1 a {
+	text-shadow: none;
+}
+
+.contact_1 h3 {
+	display: inline;
+}
